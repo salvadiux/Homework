@@ -1,7 +1,7 @@
 # ✦ Calculadora de Matrices
 
 <p align="center">
-  <img src="[assets/banner.png](https://raw.githubusercontent.com/salvadiux/Homework/refs/heads/main/blob/main/assets/banner.png)" width="100%" alt="Calculadora de matrices - Proyecto en C">
+  <img src="https://raw.githubusercontent.com/salvadiux/Homework/refs/heads/main/blob/main/assets/banner.png" width="100%" alt="Calculadora de matrices - Proyecto en C">
 </p>
 
 <p align="center">
