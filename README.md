@@ -21,9 +21,7 @@ return 0;}
 
 int menu() {
     int opc;
-    printf("\n===============================\n");
     printf("      CALCULADORA DE MATRICES  \n");
-    printf("===============================\n");
     printf("1. Suma\n");
     printf("2. Resta\n");
     printf("3. Multiplicacion con un escalar\n");
@@ -32,7 +30,6 @@ int menu() {
     printf("6. Matriz transpuesta\n");
     printf("7. Matriz inversa\n");
     printf("10. Salir\n");
-    printf("Seleccione una opcion: ");
     scanf("%d", &opc);
     return opc;
 }
